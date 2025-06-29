@@ -30,11 +30,16 @@ curl http://localhost:11434/api/generate -d '{
 ```
 
 
-## Clone this repository
+## Clone the repositories
 
 ```
 git clone https://github.com/adlpythigo/drs1.py.adligo.org.git
+git clone https://github.com/punnerud/cursor_ollama_proxy.git
 ```
+
+## Setup and test the Open AI -> Ollama proxy
+
+[OpenAi -> Ollama](./OPENAI-OLLAMA-PROXY_SETUP.md)
 
 ## Install a Python Virtual Enviroment and Dependencies
 
